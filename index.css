@@ -1,0 +1,8 @@
+body{
+    width: 980px;
+    margin:auto;
+    background-image: url(./src/assets/fondo.jpg);
+    font-family: Roboto, sans-serif, Arial, Helvetica;
+    -webkit-text-size-adjust: none;
+    display: block;
+}
